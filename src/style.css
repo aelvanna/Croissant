@@ -6,6 +6,10 @@ p {
   font-size: 20px;
 }
 
+.navigation-links {
+  text-align: center;
+}
+
 .introduction {
   text-align: center;
 }
