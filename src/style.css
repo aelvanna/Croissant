@@ -1,0 +1,23 @@
+body {
+  background: rgb(247, 227, 164);
+}
+
+p {
+  font-size: 20px;
+}
+
+.introduction {
+  text-align: center;
+}
+
+#croissant-photos {
+  text-align: center;
+}
+
+#contact-section {
+  text-align: center;
+}
+
+#contact-name {
+  margin-bottom: 0;
+}
