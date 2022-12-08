@@ -11,6 +11,10 @@ p {
   font-size: 20px;
 }
 
+.navigation-links a {
+  padding-right: 15px;
+}
+
 .introduction {
   text-align: center;
 }
